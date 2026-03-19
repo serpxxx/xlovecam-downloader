@@ -12,11 +12,11 @@ XLoveCam Downloader is a browser extension built for users who want a cleaner wa
 
 ## Links
 
-- ðŸš€ Get it here: [XLoveCam Downloader](https://serp.ly/xlovecam-video-downloader)
-- ðŸ†• Latest release: [GitHub Releases](https://github.com/serpapps/xlovecam-downloader/releases/latest)
-- â“ Help center: [SERP Help](https://help.serp.co/en/)
-- ðŸ› Report bugs: [GitHub Issues](https://github.com/serpapps/xlovecam-downloader/issues)
-- ðŸ’¡ Request features: [Feature Requests](https://github.com/serpapps/xlovecam-downloader/issues)
+- :rocket: Get it here: [XLoveCam Downloader](https://serp.ly/xlovecam-video-downloader)
+- :new: Latest release: [GitHub Releases](https://github.com/serpapps/xlovecam-downloader/releases/latest)
+- :question: Help center: [SERP Help](https://help.serp.co/en/)
+- :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/xlovecam-downloader/issues)
+- :bulb: Request features: [Feature Requests](https://github.com/serpapps/xlovecam-downloader/issues)
 
 ## Preview
 
@@ -40,15 +40,14 @@ XLoveCam Downloader is a browser extension built for users who want a cleaner wa
 
 ## Why XLoveCam Downloader
 
-XLoveCam is built for live browser viewing, not for straightforward offline saving. Live rooms end, saved videos are not always offered with a simple native download flow, and generic downloader extensions often miss protected or short-lived stream URLs.
+XLoveCam is built for live browser viewing, not for straightforward offline saving. Live broadcasts disappear once they end, saved videos are not exposed with a simple built-in download flow, and generic tools often fail because the site uses streaming delivery methods that are awkward to handle manually.
 
-XLoveCam Downloader is built specifically for that workflow. It focuses on supported XLoveCam pages, detects the active media in your current browser session, and gives you a simpler way to keep accessible content locally without switching to desktop capture tools or manual stream inspection.
+XLoveCam Downloader is built specifically for that workflow. It focuses on supported XLoveCam pages, detects the active stream in your browser session, and gives you a direct way to keep accessible content locally as MP4.
 
 ## Features
 
 - Live stream recording for active XLoveCam rooms
 - Saved video downloads from supported model pages
-- VR stream support when compatible media is exposed
 - Quality selection for available resolutions and stream variants
 - In-page controls on supported video pages
 - Popup workflow for starting and managing captures
@@ -71,7 +70,7 @@ XLoveCam Downloader is built specifically for that workflow. It focuses on suppo
 
 1. Install XLoveCam Downloader from the latest GitHub release.
 2. Open XLoveCam and sign in if the page requires account access.
-3. Visit the live room, saved video page, or supported VR page you want to keep.
+3. Visit the live room or saved video page you want to keep.
 4. Let the player load fully and press play.
 5. Click the extension button or the on-page control.
 6. Review the quality options shown by the extension.
@@ -81,9 +80,8 @@ XLoveCam Downloader is built specifically for that workflow. It focuses on suppo
 
 ## Supported Formats
 
-- Input: XLoveCam streams
+- Input: XLoveCam live streams
 - Input: XLoveCam saved videos
-- Input: Supported XLoveCam VR streams
 - Output: MP4
 
 Saved files use MP4 so they are easier to replay on standard media players, transfer between devices, or archive for later access.
@@ -92,17 +90,17 @@ Saved files use MP4 so they are easier to replay on standard media players, tran
 
 - XLoveCam viewers who want to keep live rooms before they end
 - Users who want offline access to saved videos they can already watch
-- VR viewers who want to preserve supported immersive content
 - People archiving content they are permitted to keep
 - Anyone who wants a browser-based workflow instead of manual capture software
+- Users who want a cleaner workflow than generic recorders or downloader sites
 
 ## Common Use Cases
 
-- Record a XLoveCam broadcast to watch later
+- Record an XLoveCam live broadcast to watch later
 - Download a saved video from a model page
 - Keep local copies of content before it disappears from easy access
-- Save supported VR content for later playback on compatible devices
 - Download the best quality exposed by the page
+- Start a recording directly from the player or popup
 
 ## Troubleshooting
 
@@ -141,22 +139,19 @@ Start here: [https://serp.ly/xlovecam-video-downloader](https://serp.ly/xlovecam
 
 ## FAQ
 
-**Can I record XLoveCam streams**  
-Yes. Active XLoveCam rooms can be recorded while they are broadcasting.
+**Can I record XLoveCam live streams?**  
+Yes. Active XLoveCam live rooms can be recorded while they are broadcasting.
 
-**Can I download saved videos too**  
+**Can I download saved videos too?**  
 Yes. The extension supports saved XLoveCam videos on supported pages.
 
-**Does it support VR streams**  
-Yes, when XLoveCam exposes compatible VR-capable media for that page.
-
-**What file format do downloads use**  
+**What file format do downloads use?**  
 Videos are saved as MP4 files.
 
-**Where are videos saved**  
-They are saved to your default Downloads location, typically inside a XLOVECAM subfolder.
+**Where are videos saved?**  
+They are saved to your default Downloads location, typically inside an XLOVECAM subfolder.
 
-**Do I need extra software**  
+**Do I need extra software?**  
 No. Everything runs through the browser extension.
 
 ## Notes
@@ -165,7 +160,7 @@ No. Everything runs through the browser extension.
 - An internet connection is required for live capture and downloads
 - Live recording only works while the creator is actively streaming
 - Some pages may require account access, paid access, or membership
-- VR support depends on the media exposed by XLoveCam for that stream
+- Source quality depends on the media exposed by XLoveCam
 
 ## About XLoveCam
 
