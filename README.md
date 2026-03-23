@@ -154,6 +154,10 @@ They are saved to your default Downloads location, typically inside an XLOVECAM 
 **Do I need extra software?**  
 No. Everything runs through the browser extension.
 
+## License
+
+This repository is distributed under the proprietary SERP Apps license in the [LICENSE](LICENSE) file. Review that file before copying, modifying, or redistributing any part of this project.
+
 ## Notes
 
 - Only download content you own or have explicit permission to save
