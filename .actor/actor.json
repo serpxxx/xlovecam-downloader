@@ -1,0 +1,10 @@
+{
+  "actorSpecification": 1,
+  "buildTag": "latest",
+  "description": "Xlovecam Downloader listing and downloader workflow.",
+  "input": "./INPUT_SCHEMA.json",
+  "name": "xlovecam-downloader",
+  "readme": "../ACTOR.md",
+  "title": "Xlovecam Downloader",
+  "version": "0.0"
+}
