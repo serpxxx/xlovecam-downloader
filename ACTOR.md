@@ -1,4 +1,4 @@
-# XLoveCam Downloader Browser Extension
+# XLoveCam Downloader
 
 > Record XLoveCam streams and download saved videos as MP4 files for offline viewing.
 
