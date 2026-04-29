@@ -5,6 +5,6 @@
   "input": "./INPUT_SCHEMA.json",
   "name": "xlovecam-downloader",
   "readme": "../ACTOR.md",
-  "title": "XLoveCam Downloader Browser Extension",
+  "title": "XLoveCam Downloader",
   "version": "0.0"
 }
