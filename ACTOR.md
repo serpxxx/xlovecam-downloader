@@ -2,6 +2,12 @@
 
 > Record XLoveCam streams and download saved videos as MP4 files for offline viewing.
 
+## Get it Here
+
+Get it here: https://serp.ly/xlovecam-video-downloader
+
+![XLoveCam Downloader](https://raw.githubusercontent.com/serpxxx/xlovecam-downloader/main/assets/workflow-preview.webp)
+
 XLoveCam Downloader is a browser extension built for users who want a cleaner way to keep XLoveCam broadcasts and saved videos available outside the site. It detects supported video streams directly in the browser, lets you choose from available qualities, and saves finished captures as MP4 files that are easier to replay later.
 
 - Record active XLoveCam streams while they are broadcasting
