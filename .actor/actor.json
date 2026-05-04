@@ -1,7 +1,7 @@
 {
   "actorSpecification": 1,
   "buildTag": "latest",
-  "description": "Xlovecam Downloader listing and downloader workflow.",
+  "description": "XLoveCam Downloader records accessible XLoveCam streams and saves supported videos as MP4 files for authorized offline viewing.",
   "input": "./INPUT_SCHEMA.json",
   "name": "xlovecam-downloader",
   "readme": "../ACTOR.md",
