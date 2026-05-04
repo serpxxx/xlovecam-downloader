@@ -1,4 +1,4 @@
-# XLoveCam Downloader
+# XLoveCam Video Downloader | How to Download XLoveCam Videos
 
 > Record XLoveCam streams and download saved videos as MP4 files for offline viewing.
 
